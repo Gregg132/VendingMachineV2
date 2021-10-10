@@ -1,0 +1,9 @@
+C:\Users\liami\Desktop\Computer Science C#\testing\Vending Machine 2\Vending Machine 2\bin\Debug\Vending Machine 2.exe.config
+C:\Users\liami\Desktop\Computer Science C#\testing\Vending Machine 2\Vending Machine 2\bin\Debug\Vending Machine 2.exe
+C:\Users\liami\Desktop\Computer Science C#\testing\Vending Machine 2\Vending Machine 2\bin\Debug\Vending Machine 2.pdb
+C:\Users\liami\Desktop\Computer Science C#\testing\Vending Machine 2\Vending Machine 2\obj\Debug\Vending_Machine_2.VendingMachine.resources
+C:\Users\liami\Desktop\Computer Science C#\testing\Vending Machine 2\Vending Machine 2\obj\Debug\Vending_Machine_2.Properties.Resources.resources
+C:\Users\liami\Desktop\Computer Science C#\testing\Vending Machine 2\Vending Machine 2\obj\Debug\Vending Machine 2.csproj.GenerateResource.cache
+C:\Users\liami\Desktop\Computer Science C#\testing\Vending Machine 2\Vending Machine 2\obj\Debug\Vending Machine 2.csproj.CoreCompileInputs.cache
+C:\Users\liami\Desktop\Computer Science C#\testing\Vending Machine 2\Vending Machine 2\obj\Debug\Vending Machine 2.exe
+C:\Users\liami\Desktop\Computer Science C#\testing\Vending Machine 2\Vending Machine 2\obj\Debug\Vending Machine 2.pdb
